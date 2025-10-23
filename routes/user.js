@@ -16,3 +16,24 @@ router.post('/save', (req, res) => {
         res.send({ message: 'User added successfully!', id: result.insertId });
     });
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+module.exports=router;
